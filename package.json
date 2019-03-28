@@ -1,0 +1,12 @@
+{
+  "name": "@cfi-notebook/content",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfi-notebook/content.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cfi-notebook/content/issues"
+  },
+  "homepage": "https://github.com/cfi-notebook/content#readme"
+}
