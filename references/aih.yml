@@ -1,6 +1,6 @@
-- slug: AIH
-  title: Aviation Instructor's Handbook
-  url: 'https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/media/FAA-H-8083-9A.pdf'
+- title: Aviation Instructor's Handbook
+  slug: aih
+  url: https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/media/FAA-H-8083-9A.pdf
   sections:
     - 1-1#15
     - 1-2#16
